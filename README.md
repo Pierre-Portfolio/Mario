@@ -1,34 +1,33 @@
 <h1 align="center">
-  <img src="./Assets/header.jpg" alt="Valeur Fonciere" />
+  <img src="./Assets/header.jpg" alt="Mario" />
 </h1>
 
 ---
 
-# Analyse des valeurs foncières Française en 2020
+# MARIO REALITER AUGMENTEE
 
 ## Petit résumé
 
-- La valeur foncière est la valeur d’un terrain. Elle est le plus souvent analysée en fonction de son potentiel de construction futur. Nous analyserons ici celle des bien immobilier français en 2020.
+- La réalité augmentée est une technologie qui permet d'intégrer des éléments virtuels en 3D en temps réel au sein d'un environnement réel. Le principe est de combiner le virtuel et le réel et donner l'illusion d'une intégration parfaite à l'utilisateur.
+- Super Mario est une série de jeux vidéo de plates-formes créée par Nintendo et mettant en scène sa mascotte Mario. Au moins un jeu Super Mario est sorti sur chaque console majeure de Nintendo depuis le premier épisode, Super Mario Bros.
+- Cependant aucun jeux Mario n'est encore disponible en réalité augmentée et nous avons décidez de rémedier à sa !
 
 ## Objectifs
 
-- Réaliser une étude des bien immobilier Français.
-- Réaliser une api django.
+- Réaliser des maps Super Mario.
+- L'intégrer en réalité augmentée.
+- Intégrer du multi-joueur.
 
 ## Techno
 
-- Python
-- Jupyter
-- Django
+- C#
+- Unity
+- Blender
 
-- HTML
-- CSS
-- Tailwind
-
-## API
-<img src="./Assets/demo.gif" alt="Redicube" />
+## INTERFACE
+<img src="./Assets/UI.png" alt="Redicube" />
 
 ## Auteur
 
+- [@Cokil](https://github.com/super-cokil)
 - [@Pierre](https://github.com/Pierre-Portfolio)
-- [@Tom](https://github.com/Flaye)
