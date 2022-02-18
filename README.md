@@ -24,7 +24,10 @@
 - Unity
 - Blender
 
-## INTERFACE
+## MENU PRINCIPALE
+<img src="./Assets/UI.png" alt="Redicube" />
+
+## IN GAME
 <img src="./Assets/ingame.png" alt="Redicube" />
 
 ## Auteur
