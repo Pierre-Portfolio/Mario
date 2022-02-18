@@ -4,7 +4,7 @@
 
 ---
 
-# MARIO REALITER AUGMENTEE
+# MARIO REALITE AUGMENTEE
 
 ## Petit résumé
 
