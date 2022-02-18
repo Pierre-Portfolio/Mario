@@ -25,7 +25,7 @@
 - Blender
 
 ## INTERFACE
-<img src="./Assets/UI.png" alt="Redicube" />
+<img src="./Assets/ingame.png" alt="Redicube" />
 
 ## Auteur
 
