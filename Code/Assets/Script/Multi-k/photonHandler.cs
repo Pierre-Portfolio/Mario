@@ -28,6 +28,10 @@ public class photonHandler : MonoBehaviour {
 
     public void moveScene() {
         photonB = null;//FAIRE GAFFE MODIFIE APRES
+        Global.isVR = false;
+        PlayerPrefs.SetInt("activeAr", 0);
+        PhotonNetwork.LoadLevel("MarioMapNoAr");
+        /*
 
         if (Global.isVR == true)
         {
@@ -39,6 +43,7 @@ public class photonHandler : MonoBehaviour {
             PlayerPrefs.SetInt("activeAr", 0);
             PhotonNetwork.LoadLevel("MarioMapNoAr");
         }
+        */
 
     }
 

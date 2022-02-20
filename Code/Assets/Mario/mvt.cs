@@ -190,10 +190,6 @@ public class mvt : MonoBehaviour
         cam = GameObject.FindGameObjectWithTag("MainCamera");
 
 
-        if (cam == null) {
-
-            Debug.Log("ERREUR");
-        }
 
         if (Global.isMulti)
         {
