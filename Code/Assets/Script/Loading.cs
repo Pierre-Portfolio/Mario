@@ -61,17 +61,10 @@ public class Loading : MonoBehaviour
 
     public void BtnPlay()
     {
-        if (tgAR.isOn == true)
-        {
-            PlayerPrefs.SetInt("activeAr", 1);
-            Global.isVR = true;
-            LoadLevel("MarioMapAR");
-        }
-        else
-        {
-            PlayerPrefs.SetInt("activeAr", 0);
-            Global.isVR = false;
-            LoadLevel("MarioMapNoAr");
-        }
+
+        PlayerPrefs.SetInt("activeAr", 0);
+        Global.isVR = false;
+        LoadLevel("MarioMapNoAr");
+        
     }
 }

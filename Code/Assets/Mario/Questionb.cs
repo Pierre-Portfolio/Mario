@@ -18,16 +18,6 @@ public class Questionb : MonoBehaviour
     public Rigidbody piece;
     public Transform test;
 
-    private void Start() {
-
-        
-
-
-
-
-    }
-
-
 
     private void FixedUpdate()
     {
@@ -59,19 +49,6 @@ public class Questionb : MonoBehaviour
 
                 Debug.Log("le goomba est mort");
             }
-            /*
-            if (hit.transform.tag.Equals("Sol"))
-            {
-
-                toucheSol = true;
-
-            }
-            else
-            {
-
-                toucheSol = false;
-            }
-            */
 
         }
 
